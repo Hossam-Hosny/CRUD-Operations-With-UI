@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crudexample\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crudexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5ACAF-FFC6-4B31-8B06-7AF4977DD6EC}|Services\\Services.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\services\\personservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B5ACAF-FFC6-4B31-8B06-7AF4977DD6EC}|Services\\Services.csproj|solutionrelative:services\\personservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\ipersonsserviece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ipersonsserviece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\dto\\personrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5ACAF-FFC6-4B31-8B06-7AF4977DD6EC}|Services\\Services.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\services\\countriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B5ACAF-FFC6-4B31-8B06-7AF4977DD6EC}|Services\\Services.csproj|solutionrelative:services\\countriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B79C7F-EAC0-4E5B-9AEE-A7AEFA4C4B2F}|Entities\\Entities.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B79C7F-EAC0-4E5B-9AEE-A7AEFA4C4B2F}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB3BF42-32F8-480C-B80B-C8848C8F57BF}|CRUD-Tests\\CRUD-Tests.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crud-tests\\personservicestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB3BF42-32F8-480C-B80B-C8848C8F57BF}|CRUD-Tests\\CRUD-Tests.csproj|solutionrelative:crud-tests\\personservicestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB3BF42-32F8-480C-B80B-C8848C8F57BF}|CRUD-Tests\\CRUD-Tests.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crud-tests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB3BF42-32F8-480C-B80B-C8848C8F57BF}|CRUD-Tests\\CRUD-Tests.csproj|solutionrelative:crud-tests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crudexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{681672C5-B62E-4D99-9521-3CD604978E3E}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\dto\\personresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\dto\\personupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\enums\\sortorderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\enums\\sortorderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\dto\\countryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\countryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\dto\\countryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\countryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B79C7F-EAC0-4E5B-9AEE-A7AEFA4C4B2F}|Entities\\Entities.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B79C7F-EAC0-4E5B-9AEE-A7AEFA4C4B2F}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\servicecontracts\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153038C4-8972-4C79-8C7C-C06AFFBEFA82}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB3BF42-32F8-480C-B80B-C8848C8F57BF}|CRUD-Tests\\CRUD-Tests.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crud-tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB3BF42-32F8-480C-B80B-C8848C8F57BF}|CRUD-Tests\\CRUD-Tests.csproj|solutionrelative:crud-tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB3BF42-32F8-480C-B80B-C8848C8F57BF}|CRUD-Tests\\CRUD-Tests.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 16\\crudsolution\\crud-tests\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB3BF42-32F8-480C-B80B-C8848C8F57BF}|CRUD-Tests\\CRUD-Tests.csproj|solutionrelative:crud-tests\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPersonsServiece.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\IPersonsServiece.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IPersonsServiece.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\IPersonsServiece.cs",
+              "RelativeToolTip": "ServiceContracts\\IPersonsServiece.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAhwD8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:05:40.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T07:12:59.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:12:03.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "CRUDExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:33:17.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T07:01:18.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\Persons\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Create.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\Persons\\Create.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T16:28:54.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_GridColumnHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T15:28:45.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonServices.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\Services\\PersonServices.cs",
+              "RelativeDocumentMoniker": "Services\\PersonServices.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\Services\\PersonServices.cs",
+              "RelativeToolTip": "Services\\PersonServices.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAQwDABAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:08:49.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\DTO\\PersonRequestDTO.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonRequestDTO.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\DTO\\PersonRequestDTO.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonRequestDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T04:24:31.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "ServiceContracts\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T07:43:43.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T04:21:32.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountriesServices.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\Services\\CountriesServices.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesServices.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\Services\\CountriesServices.cs",
+              "RelativeToolTip": "Services\\CountriesServices.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T01:04:26.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T07:01:03.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUD-Tests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUD-Tests\\CountriesServiceTest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUD-Tests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "CRUD-Tests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:39:20.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PersonServicesTest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUD-Tests\\PersonServicesTest.cs",
+              "RelativeDocumentMoniker": "CRUD-Tests\\PersonServicesTest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUD-Tests\\PersonServicesTest.cs",
+              "RelativeToolTip": "CRUD-Tests\\PersonServicesTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:09:23.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUDExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T07:01:30.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SortOrderOptions.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "RelativeToolTip": "ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:57:29.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:34:38.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\DTO\\PersonResponseDTO.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponseDTO.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\DTO\\PersonResponseDTO.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponseDTO.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwDIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T04:24:51.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CountryResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\DTO\\CountryResponseDTO.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryResponseDTO.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\DTO\\CountryResponseDTO.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CountryResponseDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:16:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CountryRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\DTO\\CountryRequestDTO.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryRequestDTO.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\DTO\\CountryRequestDTO.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CountryRequestDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:15:41.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:11:05.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\ICountryService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\ICountryService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICountryService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:13:48.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceContracts.csproj",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T04:47:30.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenderOptions.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Enums\\GenderOptions.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "RelativeToolTip": "ServiceContracts\\Enums\\GenderOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T04:27:59.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUD-Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CRUD-Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUD-Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CRUD-Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:40:31.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUD-Tests\\MyMath.cs",
+              "RelativeDocumentMoniker": "CRUD-Tests\\MyMath.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 16\\CRUDSolution\\CRUD-Tests\\MyMath.cs",
+              "RelativeToolTip": "CRUD-Tests\\MyMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:44:11.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

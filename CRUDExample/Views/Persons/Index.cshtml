@@ -1,0 +1,128 @@
+﻿@model IEnumerable<PersonResponseDTO>
+
+
+@{
+    ViewBag.Title = "Persons";
+}
+<form asp-controller="Persons" asp-action="Index"  method="get">
+<h1>Persons</h1>
+
+<a asp-controller="Persons" asp-action="Create">Create </a>
+
+<div class="box flex">
+    <div class="flex-1">
+        <select class="form-input" name="searchBy">
+
+            @foreach (var item in ViewBag.SearchFields)
+            {
+                    if (item.Key == ViewBag.CurrentSearchBy)
+                    {
+                        <option value="@item.Key" selected="selected">@item.Value</option>
+                    }
+                    else{
+
+                       <option value="@item.Key">@item.Value</option> 
+                    }
+                
+            }
+
+        </select>
+    </div>
+    <div class="flex-1">
+            <input type="search" id="Search" class="form-input" placeholder="Search" name="searchString" value="@ViewBag.CurrentSearchString" />
+
+    </div>
+    <div class="flex-1">
+        <button class="button button-blue-back">Search</button>
+        <a asp-controller="Persons" asp-action="Index" class="link-hover">Clear all</a>
+    </div>
+</div>
+
+
+<table class="table w-100 mt">
+
+    <thead>
+        <tr>
+
+               @{
+
+
+
+
+                    @await Html.PartialAsync("_GridColumnHeader", new ViewDataDictionary(ViewData)
+                {
+                {"ColumnName" , nameof(PersonResponseDTO.Name)},
+                {"DisplayName" , "Person Name"}
+                })
+                    @await Html.PartialAsync("_GridColumnHeader", new ViewDataDictionary(ViewData)
+                {
+                {"ColumnName" , nameof(PersonResponseDTO.Email)},
+                {"DisplayName" , "Email"}
+                })
+                    @await Html.PartialAsync("_GridColumnHeader", new ViewDataDictionary(ViewData)
+                {
+                {"ColumnName" , nameof(PersonResponseDTO.DateOfBirth)},
+                {"DisplayName" , "Date of Birth"}
+                })
+
+                    @await Html.PartialAsync("_GridColumnHeader", new ViewDataDictionary(ViewData)
+                {
+                {"ColumnName" , nameof(PersonResponseDTO.Age)},
+                {"DisplayName" , "Age"}
+                })
+
+                    @await Html.PartialAsync("_GridColumnHeader", new ViewDataDictionary(ViewData)
+                {
+                {"ColumnName" , nameof(PersonResponseDTO.Gender)},
+                {"DisplayName" , "Gender"}
+                })
+
+
+
+                    @await Html.PartialAsync("_GridColumnHeader", new ViewDataDictionary(ViewData)
+                {
+                {"ColumnName" , nameof(PersonResponseDTO.Country)},
+                {"DisplayName" , "Country"}
+                })
+
+
+
+                    @await Html.PartialAsync("_GridColumnHeader", new ViewDataDictionary(ViewData)
+                {
+                {"ColumnName" , nameof(PersonResponseDTO.Address)},
+                {"DisplayName" , "Address"}
+                })
+                    @await Html.PartialAsync("_GridColumnHeader", new ViewDataDictionary(ViewData)
+                {
+                {"ColumnName" , nameof(PersonResponseDTO.ReceiveNewsLetters)},
+                {"DisplayName" , "Receive News Letters"}
+                })
+
+
+                }
+           
+           
+            
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (PersonResponseDTO Person in Model)
+        {
+            <tr>
+                <td style="width:15%">@Person.Name</td>
+                    <td style="width:20%">@Person.Email</td>
+                    <td style="width:13%">@Person.DateOfBirth?.ToString("dd MMM yyyy")</td>
+                    <td style="width:9%">@Person.Age</td>
+                    <td style="width:9%">@Person.Gender</td>
+                    <td style="width:10%">@Person.Country</td>
+                    <td style="width:10%">@Person.Address</td>
+                    <td style="width:20%">@Person.ReceiveNewsLetters</td>
+            </tr>
+        }
+      
+    </tbody>
+
+
+</table>
+</form>
